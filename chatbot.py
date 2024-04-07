@@ -59,7 +59,7 @@ while True:
     
     # Check if the user wants to exit
     if user_input.lower() == "exit":
-        print("Exiting chat...")
+        print("Exiting chat")
         break
     
     # Get the response from OpenAI and print it
